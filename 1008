@@ -1,0 +1,7 @@
+registro = int(input())
+horas = int(input())
+salario = float(input())
+
+hsalario = horas * salario
+print(f'NUMBER = {registro}')
+print(f'SALARY = U$ {hsalario:.2f}')
