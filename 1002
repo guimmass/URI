@@ -1,0 +1,8 @@
+# area = n * raio ^ 2
+# Pi = 3.14159
+
+a = float(input())
+b = 3.14159
+
+raio = b * (a ** 2)
+print(f'A={raio:.4f}')
